@@ -5,20 +5,18 @@
 
 - 🍒 I’m collaborating with my team on [Tirico](https://github.com/VincentBernet/Tirico-ShopCameraAnalitics), a software using computer vision to provide shops with real-time analytics !
 
-- 💬 Ask me about **anything ! I'm always willing to discover new topics**
-
-- 📫 How to reach me **emeline.bagoris@efrei.net**
+- 💬 How to reach me **emeline.bagoris@efrei.net**
 
 <br />
 
 <details>
   <summary >:zap: Some of my Paper Reviews</summary>
   
-  - 3D Molecule generative model for structure-based drug design [review](https://dsail.gitbook.io/isyse-review/paper-review/2022-spring-paper-review/neurips-2021-3d-molecule-generative-model-for-structure-based-drug-design)
+  - [3D Molecule generative model for structure-based drug design](https://dsail.gitbook.io/isyse-review/paper-review/2022-spring-paper-review/neurips-2021-3d-molecule-generative-model-for-structure-based-drug-design)
     
-  - The Emergence of Objectness: Learning Zero-Shot Segmentation from Videos [review](https://awesome-davian.gitbook.io/awesome-reviews/paper-review/2022-spring-paper-review/neurips-2021-learning-zero-shot-segmentation-from-videos)
+  - [The Emergence of Objectness: Learning Zero-Shot Segmentation from Videos](https://awesome-davian.gitbook.io/awesome-reviews/paper-review/2022-spring-paper-review/neurips-2021-learning-zero-shot-segmentation-from-videos)
     
-  - Meta-learning Sparse Implicit Neural Representations [review](https://dsail.gitbook.io/isyse-review/paper-review/2022-spring-paper-review/neurips-2021-meta-learning-spare-implicit-neural-representations-eng)
+  - [Meta-learning Sparse Implicit Neural Representations](https://dsail.gitbook.io/isyse-review/paper-review/2022-spring-paper-review/neurips-2021-meta-learning-spare-implicit-neural-representations-eng)
 </details>
 
 <br />
