@@ -3,12 +3,12 @@
 
 - 👾 I’m currently working on a professional web application with a showcase site and an administration interface for a tattoo shop.
 
-- 🍒 Previously, I contributed to multiple AI-centered project such as :
-  - Wing lift prediction of airfoils
-  - Covid-19 analysis 
-  - MIMIC-III ICU readmission prediction
-  - Real-time blurring of brands in videos
-  - [Tirico](https://github.com/VincentBernet/Tirico-ShopCameraAnalitics), a software using computer vision to provide shops with real-time analytics !
+- 🍒 Previously, I contributed to multiple AI-centered project such as : 
+  - [Wing lift prediction of airfoils](https://github.com/easartem/plane-wing-lift-prediction) (finished)
+  - [Covid-19 analysis](https://github.com/easartem/Covid-Analysis-Machine-Learnia) (in progress)
+  - MIMIC-III ICU readmission prediction (finished)
+  - Real-time blurring of brands in videos (finished)
+  - [Tirico](https://github.com/VincentBernet/Tirico-ShopCameraAnalitics), a software using computer vision to provide shops with real-time analytics ! 
   
 - 💬 How to reach me **emeline.bagoris@efrei.net**
 
