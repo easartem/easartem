@@ -3,7 +3,11 @@
 
 - 👾 I’m currently working on a professional web application with a showcase site and an administration interface for a tattoo shop.
 
-- 🍒 I’m collaborating with my team on [Tirico](https://github.com/VincentBernet/Tirico-ShopCameraAnalitics), a software using computer vision to provide shops with real-time analytics !
+- 🍒 Previously, I worked on multiple AI-centered project such as :
+      - item 1
+      - item 2
+  
+- I collaborated with my team on [Tirico](https://github.com/VincentBernet/Tirico-ShopCameraAnalitics), a software using computer vision to provide shops with real-time analytics !
 
 - 💬 How to reach me **emeline.bagoris@efrei.net**
 
