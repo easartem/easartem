@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emeline !</h1>
 <h3 align="center">A passionate Big Data & Machine Learning student from Efrei Paris</h3>
 
-- 👾 I’m currently working on [TattooStudio](https://github.com/easartem/IndexFinder), a web application with a showcase site and an administration interface for a tattoo shop.
+- 👾 I’m currently working on a professional web application with a showcase site and an administration interface for a tattoo shop.
 
 - 🍒 I’m collaborating with my team on [Tirico](https://github.com/VincentBernet/Tirico-ShopCameraAnalitics), a software using computer vision to provide shops with real-time analytics !
 
