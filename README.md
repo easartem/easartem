@@ -4,7 +4,6 @@
 - 👾 I’m currently working on a professional web application with a showcase site and an administration interface for a tattoo shop.
 
 - 🍒 Previously, I contributed to multiple AI-centered project such as : 
-  - [Wing lift prediction of airfoils](https://github.com/easartem/plane-wing-lift-prediction) (finished)
   - [Covid-19 analysis](https://github.com/easartem/Covid-Analysis-Machine-Learnia) (in progress)
   - MIMIC-III ICU readmission prediction (finished)
   - Real-time blurring of brands in videos (finished)
